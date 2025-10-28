@@ -4,16 +4,27 @@ A modern, full-featured blogging platform built with Next.js, Express.js, and Su
 
 ## Secreenshots
 
+### Login Page
+![Login Page](./screenshots/login.png)
+
+### Signup Page
+![Signup Page](./screenshots/signup.png)
+
 ### Home Page
 ![Home Page](./screenshots/home.png)
 
 
 ### Post Page
-![Post Page](./screenshots/post.png)
+![Post Page](./screenshots/blogs.png)
 
+### Create Post Page
+![Create Post Page](./screenshots/create_blogs.png)
 
-### User Dashboard
-![User Dashboard](./screenshots/dashboard.png)
+### Draft Page
+![Draft Page](./screenshots/draft.png)
+
+### Footer
+![Footer](./screenshots/footer.png)
 
 
 
