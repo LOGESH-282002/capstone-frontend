@@ -431,3 +431,11 @@ GET /api/users/:id/stats
   }
 }
 ```
+
+## AI Help
+
+Some parts of this project were made with help from **Cursor (AI code editor)**.  
+AI was used to:
+- Create some code parts and file setup  
+- Fix bugs and improve code  
+- Write comments and small parts of the README  
