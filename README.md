@@ -4,8 +4,8 @@ A modern, full-featured blogging platform built with Next.js, Express.js, and Su
 
 ## Recorded Output
 
-### output
-![output](https://drive.google.com/file/d/1itrZjAlnlUefPVBTe0g8ZaiKMl2sR-7Q/view?usp=sharing)
+### Output
+[Click here to watch the capstone Project video](https://drive.google.com/file/d/1itrZjAlnlUefPVBTe0g8ZaiKMl2sR-7Q/view?usp=sharing)
 
 ## Secreenshots
 
