@@ -2,6 +2,11 @@
 
 A modern, full-featured blogging platform built with Next.js, Express.js, and Supabase. Blogify provides a seamless writing experience with powerful features for content creators and readers alike.
 
+## Recorded Output
+
+### output
+![outout](./video/capstone.mp4)
+
 ## Secreenshots
 
 ### Login Page
