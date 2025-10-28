@@ -4,9 +4,6 @@ A modern, full-featured blogging platform built with Next.js, Express.js, and Su
 
 ## Recorded Output
 
-### output
-![outout](./video/capstone.mp4)
-
 ## Secreenshots
 
 ### Login Page
