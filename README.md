@@ -18,7 +18,7 @@ A modern, full-featured blogging platform built with Next.js, Express.js, and Su
 ![Post Page](./screenshots/blogs.png)
 
 ### Create Post Page
-![Create Post Page](./screenshots/create_blogs.png)
+![Create Post Page](./screenshots/create_blog.png)
 
 ### Draft Page
 ![Draft Page](./screenshots/draft.png)
